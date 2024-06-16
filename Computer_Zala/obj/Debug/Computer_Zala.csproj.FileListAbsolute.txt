@@ -1,0 +1,14 @@
+C:\Users\vojdn\Downloads\Computer_Zala\bin\Debug\Computer_Zala.exe.config
+C:\Users\vojdn\Downloads\Computer_Zala\bin\Debug\Computer_Zala.exe
+C:\Users\vojdn\Downloads\Computer_Zala\bin\Debug\Computer_Zala.pdb
+C:\Users\vojdn\Downloads\Computer_Zala\obj\Debug\Computer_Zala.csproj.AssemblyReference.cache
+C:\Users\vojdn\Downloads\Computer_Zala\obj\Debug\Computer_Zala.csproj.CoreCompileInputs.cache
+C:\Users\vojdn\Downloads\Computer_Zala\obj\Debug\Computer_Zala.exe
+C:\Users\vojdn\Downloads\Computer_Zala\obj\Debug\Computer_Zala.pdb
+C:\Users\Admin\Desktop\Computer_Zala\bin\Debug\Computer_Zala.exe.config
+C:\Users\Admin\Desktop\Computer_Zala\bin\Debug\Computer_Zala.exe
+C:\Users\Admin\Desktop\Computer_Zala\bin\Debug\Computer_Zala.pdb
+C:\Users\Admin\Desktop\Computer_Zala\obj\Debug\Computer_Zala.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Computer_Zala\obj\Debug\Computer_Zala.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Computer_Zala\obj\Debug\Computer_Zala.exe
+C:\Users\Admin\Desktop\Computer_Zala\obj\Debug\Computer_Zala.pdb

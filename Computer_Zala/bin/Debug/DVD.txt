@@ -1,0 +1,2 @@
+Id: 2,Ime: sdfgasd,Janr: fdgdfg,Rejisior: dfgg,Vremetraene: 4,34,Tip: muzika,Izpulnitel: muzikant,Ime na izpulnitel: sdfasf
+Id: 1,Ime: dddd,Janr: gdfg,Rejisior: gadfg,Vremetraene: 5,12,Tip: film,Izpulnitel: dfgdf,Ime na izpulnitel: agdfg
